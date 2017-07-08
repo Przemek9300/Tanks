@@ -1,0 +1,28 @@
+    B           B       S              B    
+    B           B       S              B    
+    B           B       S              B    
+    B           B       S              B    
+    SPPPPS      S       B         SPPPPS    
+     PPPP       S       B          PPPP     
+     PPPP    SSSS       BBBB       PPPP     
+    SPPPPS                        SPPPPS    
+      PP                            PP      
+      PP                            PP      
+      PP    BB            BB        PP      
+      PP    BB            BB        PP      
+      PP    BB    BBBB    BB        PP      
+      PP    BB            BB        PP      
+      PP    BB            BB        PP      
+SSS   PP    BB            BB        PP  SSSS
+SSS   PP    BB            BB        PP  SSSS
+      PP    BB            BB        PP      
+      PP    BB            BB        PP      
+      PP                            PP      
+      PP                            PP      
+      PP                            PP      
+      BB                            BB      
+      SS                            SS      
+                                            
+                   SSSS                     
+                   WO W                     
+                   W  W                     

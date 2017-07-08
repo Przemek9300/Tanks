@@ -1,0 +1,28 @@
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP
+P   S               SS                S    P
+P   S                                 S    P
+P       S        B      B        S         P
+P       S    S   B      B   S    S         P
+P       SS   S   B      B   S   SS         P
+P            SBBBB      BBBBS              P
+P     B      S              S      B       P
+P     B    SSS      BB      SSS    B       P
+P     B             BB             B       P
+P     B             BB             B       P
+P     BBBB          BB          BBBB       P
+P              SSSSSSSSSSSS                P
+P              SPPPPO PPPPS                P
+P              SPPPP  PPPPS    W      S    P
+P   S    W     SBBBBBBBBBBS    W      S    P
+P   S    W     SBBBBBBBBBBS    W      S    P
+P   S    W                     W      S    P
+P   S    W                     W      S    P
+P        W                     W           P
+P        WWWW              WWWWW           P
+P                                          P
+SSSS                                    SSSS
+BBBB                                    BBBB
+WWWB     B                     B        BWWW
+  WB                                    BW  
+O WB                                    BWO 
+  WB                                    BW  
